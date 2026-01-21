@@ -22,6 +22,7 @@ Goal-Scoring Trends Over Time:
 ![Column Chart](Column_chart.png)
 
 Average Goals per Match by Tier:
+
 ![Line Chart](Line_chart.png)
 
 Key Findings:

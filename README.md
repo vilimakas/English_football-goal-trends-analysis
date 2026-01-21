@@ -9,7 +9,26 @@ Match result data from Football-Data.co.uk for:
 - Premier League (Tier 1)
 - Championship (Tier 2)
 - League One (Tier 3)
+Link: https://www.football-data.co.uk/englandm.php
+
+Process:
+- Imported seasonal CSV files
+- Cleaned and merged datasets
+- Created TotalGoals feature
+- Built pivot analysis in Google Sheets
+
+Average Goals Per Match by Tier and Season
+Goal-Scoring Trends Over Time:
+![Column Chart](column_chart.png)
+
+Average Goals per Match by Tier:
+![Line Chart](line_chart.png)
+
+Key Findings:
+- Premier League scoring steadily increased
+- Championship slightly declined
+- League One remained stable
 
 
 
-https://docs.google.com/spreadsheets/d/1aB-ryfwpBDqmpwW7AunOkvAi2Z7d3YZ5ZoWbwpzzFqk/edit?usp=sharing
+Spreadsheet link: https://docs.google.com/spreadsheets/d/1aB-ryfwpBDqmpwW7AunOkvAi2Z7d3YZ5ZoWbwpzzFqk/edit?usp=sharing
